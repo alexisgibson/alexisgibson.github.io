@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Alexis Gibson
-  avatar: bio-photo.jpg
+  avatar: ! [headshot] 2022_GibsonAlexis_HS_1.jpg
   bio: "PostDoc studying the intestinal epithelium and inflammasome biology"
   email: gibsoale@ohsu.edu
   # Do not include the @ symbol in your Twitter username
